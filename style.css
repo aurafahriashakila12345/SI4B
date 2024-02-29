@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+/* element selector */
+body {
+    background-color: black;
+    font-family:calibri;
+    color:white;
+}
+
+/* class selector */
+.text-primary {
+    color:pink;
+}
+
+.col {
+    width: 25%;
+    float: left;
+}
+
+.img-responsive {
+    width: 100%;
+}
